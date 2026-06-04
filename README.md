@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankita Gore</h1>
+<h3 align="center">Java Full Stack Developer | BE IT Graduate</h3>
 
-<!--
-**ankitagore-45/ankitagore-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about building web applications using Java and Spring Boot.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👩‍💻 About Me
+
+- 🎓 BE Information Technology Graduate
+- 🌱 Currently learning Spring Boot, React & Microservices
+- 💻 Interested in Full Stack Development
+- 🚀 Building Smart Hospital Management System
+- 📚 Practicing DSA and SQL
+- 🎯 Looking for opportunities as a Java Full Stack Developer
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🏥 Smart Hospital Management System
+- Role-based login (Admin, Doctor, Patient)
+- Appointment Management
+- Doctor & Patient Dashboard
+- Spring Boot + MySQL
+
+### 📄 Content Analysis and Duplication Avoidance System
+- Machine Learning Based Project
+- Duplicate Content Detection
+- Content Similarity Analysis
+
+### 🧮 DCEM Calculator
+- Android Application
+- Java-Based Calculator
+- User-Friendly Interface
+
+---
+
+## 📊 GitHub Stats
+
+![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+⭐ "Learning, Building, and Growing Every Day." ...
 -->
