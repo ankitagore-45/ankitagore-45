@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 BE Information Technology Graduate
-- 🌱 Currently learning Spring Boot, React & Microservices
+- 🌱 Currently learning Spring Boot, React & Microservices,DevTools
 - 💻 Interested in Full Stack Development
 - 🚀 Building Smart Hospital Management System
 - 📚 Practicing DSA and SQL
@@ -39,29 +39,17 @@
 - Duplicate Content Detection
 - Content Similarity Analysis
 
-### 🧮 DCEM Calculator
-- Android Application
-- Java-Based Calculator
-- User-Friendly Interface
 
----
 
-## 📊 GitHub Stats
-
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ankita-gore-4587ag/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ankitagore45@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
