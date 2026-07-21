@@ -74,17 +74,4 @@ public class AnkitaGore {
         );
     }
 }
-💌 Let's Build Something Amazing
 
-I am actively looking for opportunities where I can
-learn, contribute and grow as a Java Full Stack Developer.
-
-<br/> <a href="mailto:ankitagore45@gmail.com"> <img src="https://img.shields.io/badge/Send%20Email-FB7185?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/ankita-gore-4587ag/"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/ankitagore-45"> <img src="https://img.shields.io/badge/Explore%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<br/><br/>
-
-✨ Thanks for visiting my profile ✨
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:22D3EE,35:8B5CF6,70:EC4899,100:FB7185" />
-
-</div> 
